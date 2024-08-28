@@ -8,4 +8,4 @@
 
 [XTuner微调个人小助手认知](https://blog.csdn.net/weixin_42567071/article/details/141558637)
 
-[OpenCompass 评测 InternLM-1.8B 实践]()
+[OpenCompass 评测 InternLM-1.8B 实践](https://blog.csdn.net/weixin_42567071/article/details/141596353)

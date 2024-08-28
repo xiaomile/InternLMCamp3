@@ -4,7 +4,7 @@
 
 [浦语提示词工程实践](https://blog.csdn.net/weixin_42567071/article/details/141472320)
 
-[llamaindex+Internlm2 RAG实践]()
+[llamaindex+Internlm2 RAG实践](https://blog.csdn.net/weixin_42567071/article/details/141637577)
 
 [XTuner微调个人小助手认知](https://blog.csdn.net/weixin_42567071/article/details/141558637)
 
